@@ -1,0 +1,9 @@
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\bin\Debug\Negocio.dll
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\bin\Debug\Datos.dll
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\bin\Debug\Datos.pdb
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\obj\Debug\Negocio.dll
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Negocio\obj\Debug\Negocio.pdb

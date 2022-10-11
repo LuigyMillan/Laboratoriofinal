@@ -1,0 +1,29 @@
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Atencion_Nacional.resources
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Registro_examen.resources
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Registro_paciente.resources
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.pdb
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Login.resources
+C:\Users\aleja\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.MenuL.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.AssemblyReference.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Atencion_Nacional.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Login.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.MenuL.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Registro_examen.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Registro_paciente.resources
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\Steven Jurado\Downloads\Nueva carpeta\Laboratorio\Laboratorio\obj\Debug\Laboratorio.pdb
